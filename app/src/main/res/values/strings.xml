@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Lection1</string>
-    <string name="hello_world">Hello World!</string>
-    <string name="hello_button">Hello, Button</string>
+    <string name="app_name">Fig</string>
+    <string name="welcome">Welcome to Fig</string>
+    <string name="skip">Skip</string>
+    <string name="about">Application for viewing photos from \n the popular Unsplash service</string>
 </resources>

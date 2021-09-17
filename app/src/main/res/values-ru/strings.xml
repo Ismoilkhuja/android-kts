@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Лекция1</string>
-    <string name="hello_world">Привет, Мир!</string>
-    <string name="hello_button">Я кнопка</string>
+    <string name="app_name">Fig</string>
+    <string name="welcome">Добро пожаловать в Инжир</string>
+    <string name="skip">Пропустить</string>
+    <string name="about">Приложение для просмотра фотографии с \n
+        популярного сервиса Unsplash</string>
 </resources>
